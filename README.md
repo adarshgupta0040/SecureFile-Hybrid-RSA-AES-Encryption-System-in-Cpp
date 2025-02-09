@@ -3,6 +3,8 @@
 # Overview
 
 SecureFile is a C++-based file encryption and decryption system that combines AES (Advanced Encryption Standard) for fast encryption and RSA (Rivest-Shamir-Adleman) for secure key exchange. This hybrid approach ensures both speed and security, making it ideal for protecting sensitive data.
+![image](https://github.com/user-attachments/assets/678723ae-38ce-4eb2-b4c3-4b5eb9b287f8)
+
 
 # Features
 
